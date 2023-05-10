@@ -9,3 +9,8 @@ Figma File Link: https://www.figma.com/file/ViPQ54IAqcOM7bgrdnHKGB/Academy-Porta
 ![Screenshot (42)](https://user-images.githubusercontent.com/97233950/237018581-1aa36cd6-5b17-4028-974d-c56bdc5fe6b8.png)
 ![Screenshot (41)](https://user-images.githubusercontent.com/97233950/237018606-6015aedc-789d-42bc-9323-fedc9e7f261d.png)
 
+Instagram Login
+-------------------
+Figma File Link: https://www.figma.com/file/FjzpZPxiRq8BeHYlglj89P/Instagram-Login?type=design&node-id=0%3A1&t=rTps5ZbNzPTdwmIB-1
+
+![Screenshot (43)](https://github.com/rohitkumar-14/Figma_Desgins/assets/97233950/27d7fde3-bda1-4057-94b8-19381584c370)
