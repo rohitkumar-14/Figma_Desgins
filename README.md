@@ -13,4 +13,4 @@ Instagram Login
 -------------------
 Figma File Link: https://www.figma.com/file/FjzpZPxiRq8BeHYlglj89P/Instagram-Login?type=design&node-id=0%3A1&t=rTps5ZbNzPTdwmIB-1
 
-![Screenshot (44)](https://github.com/rohitkumar-14/Figma_Desgins/assets/97233950/2e0a89cf-e090-4f21-be96-d7c5976290c2)
+![Screenshot (44)](https://github.com/rohitkumar-14/Figma_Desgins/assets/97233950/f4594e8a-5f70-40c5-9e2f-88d2528dfa76)
